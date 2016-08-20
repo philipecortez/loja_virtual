@@ -1,0 +1,3 @@
+class Revista
+  attr_reader :titulo
+end
