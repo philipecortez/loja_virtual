@@ -60,3 +60,525 @@ isbn: '1'
 numero_de_paginas: 189
 categoria: :web_design
 
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Mauricio Aniche
+autor: '123454'
+isbn: '1'
+numero_de_paginas: 247
+categoria: :testes
+
+--- !ruby/object:Livro
+desconto: 0.1
+valor: 69.9
+titulo: Tarcio Zemel
+autor: '452565'
+isbn: '1'
+numero_de_paginas: 189
+categoria: :web_design
+

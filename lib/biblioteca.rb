@@ -23,7 +23,7 @@ class Biblioteca
   end
 
   def each
-    midias.each { |livro| yield midia}
+    midias.each { |midia| yield midia}
   end
 
   private def salva(midia)
