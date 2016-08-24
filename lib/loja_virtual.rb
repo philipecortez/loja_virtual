@@ -1,3 +1,5 @@
+require File.expand_path('lib/document_not_found')
+require File.expand_path('lib/formatador_moeda')
 require File.expand_path('lib/midia')
 require File.expand_path('lib/dvd')
 require File.expand_path('lib/livro')
@@ -49,11 +51,21 @@ p biblioteca.inject(0) { |tot, livro| tot += livro.valor}
 # =================================================================================
 20.times {print "="}
 
-mundo_net = Revista.new("mundo Net")
-mundo_j = Revista.new("mundo J")
+# mundo_net = Revista.new("mundo Net")
+mundo_j = Revista.new(titulo: "Mundo j", valor: 20.5)
+mundo_j.save
 puts ""
-puts mundo_net.titulo_formatado
-puts mundo_net.id
-puts ""
-puts mundo_j.titulo_formatado
+# puts mundo_net.titulo_formatado
+# puts mundo_net.id
+# puts ""
+# puts mundo_j.titulo_formatado
 puts mundo_j.id
+# mundo_j.save
+
+revista = Revista.find(5)
+puts revista.inspect
+revista.destroy
+# =================================================================================
+
+puts windows.valor_formatado
+puts windows.valor_com_desconto_formatado

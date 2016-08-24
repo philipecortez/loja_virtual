@@ -1,4 +1,8 @@
-class DVD < Midia
+  class DVD < Midia
+
+  include FormatadorMoeda
+
+  formata_moeda :valor_com_desconto, :valor
 
   def initialize(titulo, valor, categoria)
     super()
