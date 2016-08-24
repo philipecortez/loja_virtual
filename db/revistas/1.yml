@@ -1,4 +1,6 @@
 --- !ruby/object:Revista
-titulo: mundo NET
-valor: 20.1
 id: 1
+destroyed: false
+new_record: false
+titulo: Mundo J
+valor: 20.5

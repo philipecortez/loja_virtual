@@ -11,7 +11,9 @@ class Midia
     @valor - desconto
   end
 
-  private def desconto
+  private
+
+  def desconto
     @valor * @desconto
   end
 end

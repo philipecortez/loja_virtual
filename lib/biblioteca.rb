@@ -26,7 +26,9 @@ class Biblioteca
     midias.each { |midia| yield midia}
   end
 
-  private def salva(midia)
+  private
+
+  def salva(midia)
     @banco_de_arquivos.salva midia
     yield
   end
